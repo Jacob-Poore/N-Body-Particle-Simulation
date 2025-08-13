@@ -99,12 +99,6 @@ To modify the particle system, edit the `create_particles()` function:
 
 ---
 
-## License
-
-This project is licensed under the MIT License.
-
----
-
 ## Additional Information
 
 For an extended project overview and more physics-based simulations, visit:
